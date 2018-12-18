@@ -1,0 +1,21 @@
+{
+  "name": "handbook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mfkessai/handbook.git",
+  "author": "shinofara <shinofara@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "textlint": "^11.0.0"
+  },
+  "devDependencies": {
+    "textlint-filter-rule-comments": "^1.2.2",
+    "textlint-rule-no-mixed-zenkaku-and-hankaku-alphabet": "^1.0.1",
+    "textlint-rule-period-in-list-item": "v0.2.0",
+    "textlint-rule-preset-ja-technical-writing": "^3.0.1",
+    "textlint-rule-preset-japanese": "^4.0.0",
+    "textlint-rule-prh": "^5.2.0",
+    "textlint-rule-preset-jtf-style": "^2.3.1"
+  }
+}
