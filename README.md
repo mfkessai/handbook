@@ -98,7 +98,7 @@ MF KESSAIの現在のインフラを含めた図はこちらになります。
 ![image](/images/easy_infrastructure_diagram.png)
 
 - 1つのKubernetes clusterの上に複数サービスを展開
-- 各Pod間は `Service Mesh` の `Envoy` を導入してます。将来的に `Istio` に変更する予定
+- 各Pod間は `Service Mesh` の `Envoy` を導入。将来的に `Istio` に変更する予定
 
 アプリケーション同士の関係性はこちらになります。
 
