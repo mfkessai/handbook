@@ -106,7 +106,7 @@ MF KESSAIの現在のインフラを含めた図はこちらになります。
 
 - コアドメインはGoを使ってgRPCで開発
 - 各アプリケーションはそれぞれの開発チームにて利用言語、技術を選択
-- 最近は、[`Nuxt.js`, `GraphQL` を用いて、フロントとバックエンドを分離して（https://tech.mfkessai.co.jp/2018/10/frontend/)して開発
+- 最近は`Nuxt.js`, `GraphQL` を用いて[フロントとバックエンドを分離](https://tech.mfkessai.co.jp/2018/10/frontend/)して開発
 
 ## その他
 
