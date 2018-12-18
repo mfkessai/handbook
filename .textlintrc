@@ -1,0 +1,16 @@
+{
+    "rules": {
+        "preset-jtf-style": {
+            "3.1.2.全角文字どうし": false
+        },
+        "preset-ja-technical-writing": {
+          "ja-no-weak-phrase": false,
+          "no-exclamation-question-mark": false
+        },
+        "period-in-list-item": true,
+        "no-mixed-zenkaku-and-hankaku-alphabet": true
+    },
+  "filters": {
+    "comments": true
+  }
+}
