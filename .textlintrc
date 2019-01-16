@@ -8,7 +8,12 @@
           "no-exclamation-question-mark": false
         },
         "period-in-list-item": true,
-        "no-mixed-zenkaku-and-hankaku-alphabet": true
+        "no-mixed-zenkaku-and-hankaku-alphabet": true,
+        "prh": {
+          "rulePaths": [
+            "./prh.yml"
+          ]
+        }
     },
   "filters": {
     "comments": true
