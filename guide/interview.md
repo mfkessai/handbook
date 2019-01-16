@@ -66,7 +66,7 @@ Goで簡単なREST APIのサーバーを面接官とペアプロで実装をし�
 
 - 使い慣れた端末の持ち込み
 - MF KESSAIが準備するMac Book Pro 13inch JIS
-  - インストー済みエディタ
+  - インストール済みエディタ
     - [GoLand](https://www.jetbrains.com/go/)
     - [Visual Studio Code](https://code.visualstudio.com)
 
