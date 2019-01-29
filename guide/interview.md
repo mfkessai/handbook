@@ -71,7 +71,7 @@ Goで簡単なREST APIのサーバーを面接官とペアプロで実装をし�
     - [Visual Studio Code](https://code.visualstudio.com)
 
 ペアプロは大型ディスプレイに映しながら実施します。
-HDMI, Type-Cの場合は接続できます。
+対応している接続端子はHDMI, Type-Cです。
 
 ### CTO面接
 
