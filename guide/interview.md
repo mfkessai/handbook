@@ -56,8 +56,9 @@ Goの経験に関して個人差はあると思いますが、弊社のサーバ
 
 #### 課題内容
 
-Goで簡単なREST APIのサーバーを面接官とペアプロで実装をしてもらいます。
-当日までに[A Tour of Go](https://go-tour-jp.appspot.com/welcome/1)を一通り終わらせており、[net/http](https://golang.org/pkg/net/http/)で最低限HTTPサーバを立ち上げられる事ができれば問題ないレベルです。
+Goで書かれた簡単なREST APIサーバーのスケルトンを用意しておりますので、テストが通るように実装をしていただきます。
+面接官とペアプロで進めますので、分からない点は相談して構いませんし、Web上のドキュメント等を調べていただくのも自由です。
+課題のレベル感としては、[A Tour of Go](https://go-tour-jp.appspot.com/welcome/1)を一通りやったことがあり、[net/http](https://golang.org/pkg/net/http/)で最低限HTTPサーバを立ち上げられば問題ないレベルです。
 
 #### 開発端末
 
