@@ -1,8 +1,0 @@
-version: 1
-rules:
-  - expected: ため
-    pattern:
-      - 為
-    specs:
-      - from: 為
-        to: ため
